@@ -1,6 +1,6 @@
 {
   "name": "cf-workers-bot",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Discord Bot for Cloudflare Workers",
   "main": "index.js",
   "scripts": {
