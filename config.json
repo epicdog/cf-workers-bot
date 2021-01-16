@@ -1,5 +1,6 @@
 {
 	"prefix": "!",
+	"discord": "https://discord.gg/cloudflaredev",
 	"url_base": "https://cloudflareworkers.com/",
 	"regex": "(#\\w{32})(\\S*)(?:\\s(.*)){0,1}",
 	"message": {

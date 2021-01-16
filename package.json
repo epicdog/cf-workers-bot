@@ -1,10 +1,9 @@
 {
   "name": "cf-workers-bot",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Discord Bot for Cloudflare Workers",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "test": "echo \"Error: no test specified yet\" && exit 1"
   },
   "repository": {
@@ -21,7 +20,8 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "discord.js": "^12.5.1",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
   },
   "engines": {
     "node": ">=12"
