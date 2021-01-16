@@ -1,0 +1,28 @@
+{
+  "name": "cf-workers-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot for Cloudflare Workers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified yet\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/picdog/cf-workers-bot"
+  },
+  "keywords": [
+    "cloudflare",
+    "workers",
+    "discord",
+    "bot"
+  ],
+  "readmeFilename": "README.md",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}

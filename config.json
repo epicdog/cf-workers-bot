@@ -1,0 +1,16 @@
+{
+	"prefix": "!",
+	"url_base": "https://cloudflareworkers.com/",
+	"regex": "(#\\w{32})(\\S*)(?:\\s(.*)){0,1}",
+	"message": {
+		"title": "Cloudflare Workers",
+		"content": " shared a workers link!",
+		"color": "15892513",
+		"description": "Transform requests on the edge using JavaScript.",
+		"image": {
+			"url": "https://workers.cloudflare.com/resources/logo/logo.svg",
+			"height": 90,
+			"width": 90
+		}
+	}
+}
