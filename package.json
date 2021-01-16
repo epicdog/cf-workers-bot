@@ -1,9 +1,10 @@
 {
   "name": "cf-workers-bot",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Discord Bot for Cloudflare Workers",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified yet\" && exit 1"
   },
   "repository": {
